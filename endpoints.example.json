@@ -1,0 +1,6 @@
+{
+  "endpoints": [
+    { "name": "Support Case Tracker", "url": "http://127.0.0.1:8777/health", "expected_statuses": [200] },
+    { "name": "Deployment Lab", "url": "http://127.0.0.1:8088/health/ready", "expected_statuses": [200] }
+  ]
+}

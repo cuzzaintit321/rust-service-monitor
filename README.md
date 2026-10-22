@@ -1,5 +1,7 @@
 # Rust Service Monitor
 
+![rust-service-monitor project banner](docs/project-banner.webp)
+
 A Rust CLI for concurrent HTTP/HTTPS endpoint checks, response-header timings, terminal results, and JSON reports. Built as a new learning and portfolio project for Jason Edwards, not a claim of employer use or prior deployment on his machines.
 
 ## Build and run
